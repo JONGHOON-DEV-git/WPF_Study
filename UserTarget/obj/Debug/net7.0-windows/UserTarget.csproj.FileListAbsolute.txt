@@ -1,0 +1,17 @@
+C:\WPF_Workspace\WPF_DayOne\UserTarget\bin\Debug\net7.0-windows\UserTarget.deps.json
+C:\WPF_Workspace\WPF_DayOne\UserTarget\bin\Debug\net7.0-windows\UserTarget.dll
+C:\WPF_Workspace\WPF_DayOne\UserTarget\bin\Debug\net7.0-windows\UserTarget.pdb
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\UserTarget.csproj.AssemblyReference.cache
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\UserTarget_MarkupCompile.cache
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\UserTarget_MarkupCompile.lref
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\Themes\Generic.baml
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\UserTarget.g.resources
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\UserTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\UserTarget.AssemblyInfoInputs.cache
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\UserTarget.AssemblyInfo.cs
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\UserTarget.csproj.CoreCompileInputs.cache
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\UserTarget.dll
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\refint\UserTarget.dll
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\UserTarget.pdb
+C:\WPF_Workspace\WPF_DayOne\UserTarget\obj\Debug\net7.0-windows\ref\UserTarget.dll
